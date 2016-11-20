@@ -1,0 +1,8 @@
+/*below mentioned code makes the h1 text Italic and underline with text alignment right and font size 25px*/
+h1{
+	font-size:25px;
+	text-decoration:underline;
+	font-style:Italic;
+	text-align:right;
+	}
+
